@@ -1,4 +1,4 @@
-const x=1331;
+const x=28082;
 var y=x;
 rev=0;
 while(y>0){
@@ -13,6 +13,6 @@ if (x==rev) {
     console.log("The number is PALINDROME")
     
 } else {
-    console.log("The number is not NOT PALINDROME")
+    console.log("The number is not palindrome")
     
 }
